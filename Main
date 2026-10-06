@@ -90,7 +90,7 @@ local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/TheNorthBleeding/Bett
 local DISCORD_URL = "https://discord.gg/WjVB7HWGN"
 
 local WHITELISTED_USERIDS = {
-    11404191207,
+11404191207,
     987654321,
 }
 
